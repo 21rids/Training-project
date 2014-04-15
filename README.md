@@ -1,2 +1,2 @@
-Training-project-
+Training-project
 =================
